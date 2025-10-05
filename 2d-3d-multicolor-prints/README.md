@@ -12,4 +12,4 @@ https://biqu.equipment/products/bigtreetech-td1s
 
 ## Falko experiementiert für die Spreewölfe
 
-siehe Ordner "Spreewölfe"
+siehe Ordner [Spreewölfe](Spreewölfe)
