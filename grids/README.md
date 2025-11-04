@@ -8,3 +8,6 @@ Gridfinity Grids. Wenn du willst, kann ich mal ein gutes Beispiel raussuchen. Ge
 * Carousel https://www.printables.com/model/897707-gridfinity-carousel-motorized
 
 opengrid ist kleiner
+* opengrid kann angeschraubt werden
+* opengrid kann über Kopf geschraubt werden
+* Falko hat unter https://www.printables.com/@falkorichter_1026034/collections/2793569 eine collection gestartet
