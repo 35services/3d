@@ -1,3 +1,5 @@
+https://www.opengrid.world/ hat soooo viel!
+
 Gridfinity Grids. Wenn du willst, kann ich mal ein gutes Beispiel raussuchen. Genrel wäre das hier ein guter Sart: 
 
 * https://gridfinity.perplexinglabs.com/pr/gridplates/0/0
