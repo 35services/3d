@@ -11,3 +11,10 @@ opengrid ist kleiner
 * opengrid kann angeschraubt werden
 * opengrid kann über Kopf geschraubt werden
 * Falko hat unter https://www.printables.com/@falkorichter_1026034/collections/2793569 eine collection gestartet
+
+
+Screenshots
+![](opengrid_easyprint_1.png)
+![](opengrid_easyprint_2.png)
+![](opengrid_easyprint_3.png)
+![](opengrid_6x6.png)
