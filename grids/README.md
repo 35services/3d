@@ -15,6 +15,10 @@ opengrid ist kleiner
 
 Screenshots
 ![](opengrid_easyprint_1.png)
+https://www.printables.com/@falkorichter_1026034/collections/2793569
 ![](opengrid_easyprint_2.png)
+https://www.printables.com/@falkorichter_1026034/collections/2793569
 ![](opengrid_easyprint_3.png)
+https://www.printables.com/@falkorichter_1026034/collections/2793569
 ![](opengrid_6x6.png)
+from https://gridfinity.perplexinglabs.com/pr/opengrid/0/0
