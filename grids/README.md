@@ -3,6 +3,7 @@ https://www.opengrid.world/ hat soooo viel!
 Gridfinity Grids. Wenn du willst, kann ich mal ein gutes Beispiel raussuchen. Genrel wäre das hier ein guter Sart: 
 
 * https://gridfinity.perplexinglabs.com/pr/gridplates/0/0
+  * https://www.tinkercad.com/things/ezRlxyJyFKF-gf-extended-bin-3x3x12-s1x1-with-openings Falko hat eine Box mit Ausschnitten gemacht  
 * https://gridfinitygenerator.com/de/baseplate kann auch generieren
 * mit Magneten: https://makerworld.com/en/models/781960-gridfinity-magnet-base-all-sizes#profileId-719178, 
 * Ultra-Leicht: https://www.printables.com/model/1233707-ultralight-gridfinity-bases
